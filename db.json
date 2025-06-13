@@ -1,0 +1,47 @@
+{
+  "people": [
+    {
+      "id": "0e77",
+      "name": "praveen kumar jr",
+      "age": 23,
+      "email": "praveenpk2027@gmail.com",
+      "createdAt": "13/06/2025 17:06:35"
+    },
+    {
+      "id": "e426",
+      "name": "gokul",
+      "age": 30,
+      "email": "golkulpk2027@gmail.com",
+      "createdAt": "13/06/2025 17:06:51"
+    },
+    {
+      "id": "179e",
+      "name": "dinesh",
+      "age": 20,
+      "email": "dinesh@gmail.com",
+      "createdAt": "13/06/2025 17:07:02"
+    },
+    {
+      "id": "d48e",
+      "name": "Ajay",
+      "age": 60,
+      "email": "ajay@gmail.com",
+      "createdAt": "13/06/2025 17:07:11"
+    },
+    {
+      "id": "4fcf",
+      "name": "Supria R",
+      "age": 23,
+      "email": "supria@gmail.com",
+      "createdAt": "13/06/2025 17:07:21"
+    },
+    {
+      "id": "52e3",
+      "name": "admin",
+      "age": 20,
+      "email": "npk2027@gmail.com",
+      "createdAt": "13/06/2025 17:07:34",
+      "endTime": "13/06/2025 17:07:50"
+    }
+  ]
+}
